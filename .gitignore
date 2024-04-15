@@ -1,0 +1,6 @@
+# Ignore build output
+build/
+dist/
+bin/
+
+tasks.json

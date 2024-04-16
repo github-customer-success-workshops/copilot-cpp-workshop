@@ -4,7 +4,7 @@
 
 Our Calculator project is in need of some love. The tests in `test_main.cpp` are failing and the code is hard to understand . There's some additional work to be done here, but let's start with the following list first and see if Copilot can help us out:
 
-- [ ] Fix the build errors in `test_main.cpp` (If you can't build the project, you can see a copy of the errors in [errors.md](errors.md)
+- [ ] Fix the build errors in `test_main.cpp` (If you can't build the project, you can see a copy of the errors in [errors.md](errors.md))
 - [ ] Simplify the `Calculator` class by reducing any unnecessary code and rewriting functions as necessary to be more readable while still doing appropriate error handling.
 
 > Goal: Get the tests in `test_main.cpp` to pass and to have a cleaner `Calculator` class.

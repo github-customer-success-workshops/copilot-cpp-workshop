@@ -6,7 +6,6 @@ Our Calculator project is in need of some love. The tests in `test_main.cpp` are
 
 - [ ] Fix the build errors in `test_main.cpp`.
 - [ ] Simplify the `Calculator` class by reducing any unnecessary code and rewriting functions as necessary to be more readable while still doing appropriate error handling.
-- [ ] Switch the testing framework from `cassert` to `GTest`. 
 
 > Goal: Get the tests in `test_main.cpp` to pass and to have a cleaner `Calculator` class.
 
